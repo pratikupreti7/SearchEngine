@@ -3,7 +3,7 @@
 
 # Search Engine
 ### Introduction
-This is a Python-based search engine that retrieves web pages from a given set of URLs and enables users to perform keyword-based search on these pages.
+This is a Java and Python-based search engine that retrieves web pages from a given set of URLs and enables users to perform keyword-based search on these pages.
 
 ### Approach
 The search engine is built using the following steps:
